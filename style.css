@@ -1,3 +1,12 @@
 body{
     background-color: rgb(196, 235, 222);
+    color:black;
+}
+
+p{
+    color:black;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(127, 197, 255);
+    padding: 5px;
 }
